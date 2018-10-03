@@ -1,0 +1,109 @@
+body {
+    background-color: whitesmoke;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    margin: center;
+    width: 2000px;
+    text-align: justify;
+    align-content: center;
+  
+}
+
+header {
+    background-color: #f2f4f7;
+    background-image: url( "prague.jpeg");
+    background-size: 100% 100%;
+    width: 1700px;
+    height: 500px;
+    text-align: justify;
+     align-content: center;
+    
+}
+
+h1 {
+    color: white;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    font-size: 5.5em;
+    padding: 150px 119px 26px 83px;
+    text-align: justify;
+}
+
+.wrapper {
+    overflow: scroll
+}
+
+nav {
+    background-color: #e0e1e2;
+    float: 
+    margin-bottom: -9999px;
+    margin-top: 450px;
+    padding-bottom: 9999px;
+    width: 300px;
+    padding: 10px 30px 30px 30px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-top: 15px;
+    text-align: center;
+}
+
+nav li {
+    padding: 10px 30px 30px 30px;
+}
+
+.main-nav li a:link {
+    text-decoration: none;
+}
+
+main {
+    background-color: #0C65E8;
+    float: right;
+    text-align: center;
+    min-height: 550px;
+    width: 600px;
+}
+
+figure {
+    text-align: center;
+    font-size: 5.5em;
+}
+
+figure img {
+    height: auto;
+    margin: 20px;
+    width: 85%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.last-caption {
+    padding-bottom: 25px;
+}
+
+footer {
+    background-color: whitesmoke;
+    clear: both;
+    min-height: 50px;
+    margin-bottom: -20000px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;   
+}
+
+footer > p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-bottom: -9999px;
+    float: center;
+    clear: both;
+    
+    
+}
+
